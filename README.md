@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Links
 - Acesse a URL da solução [clicando aqui](https://github.com/Antonio-Rafael-Silva/blog-preview-card)
-- Acesse o site do projeto [clicando aqui](https://antonio-rafael-silva.github.io/blog-preview-card/)
+- Acesse o site do projeto [clicando aqui](https://antoniorafaeldev.github.io/blog-preview-card/)
 
 ## Screenshot do resultado
 
